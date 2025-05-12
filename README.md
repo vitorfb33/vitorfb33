@@ -31,6 +31,7 @@
 ![Ubuntu Server](https://img.shields.io/badge/-Ubuntu%20Server-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)
 ![Infraestrutura de TI](https://img.shields.io/badge/-Infraestrutura%20de%20TI-0D1117?style=for-the-badge&logo=microsoft&labelColor=0D1117)
 ![Redes de Computadores](https://img.shields.io/badge/-Redes%20de%20Computadores-0D1117?style=for-the-badge&logo=cisco&labelColor=0D1117)
-![Cyber Security](https://img.shields.io/badge/-Cyber%20Security-0D1117?style=for-the-badge&logo=security&labelColor=0D1117)
+![Cyber Security](https://img.shields.io/badge/-Cyber%20Security-0D1117?style=for-the-badge&logo=cisco&labelColor=0D1117)
+
 
 
